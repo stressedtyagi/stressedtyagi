@@ -45,6 +45,18 @@
     </a>
 </p> -->
 
+## Connect with me:
+
+<p align="left">
+
+<a href = "https://www.linkedin.com/in/divyanshutyagi/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://twitter.com/stressedtyagi"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+<a href = "https://www.instagram.com/divyanshutyagi_/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+<a href = "https://www.youtube.com/channel/UCiJA--r7liMKueiIr_OH3oQ"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
+<a href = "https://leetcode.com/divyanshutyagi/"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png" width="40" height="40" /></a>
+<a href = "https://www.hackerrank.com/divyanshu_tyagi"><img src="https://upload.wikimedia.org/wikipedia/commons/4/40/HackerRank_Icon-1000px.png" width="40" height="40"/></a>
+<a href = "https://auth.geeksforgeeks.org/user/divyanshutyagi8/profile"><img src="https://img.icons8.com/color/48/000000/GeeksforGeeks.png" width="40" height="40"/></a>
+
 ## 📊 My Github Stats
 
   <br/>
@@ -60,15 +72,6 @@
 
 <br/>
 <br/>
-
-## Connect with me:
-
-<p align="left">
-
-<a href = "https://www.linkedin.com/in/divyanshutyagi/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://twitter.com/stressedtyagi"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a href = "https://www.instagram.com/divyanshutyagi_/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-<a href = "https://www.youtube.com/channel/UCiJA--r7liMKueiIr_OH3oQ"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
 
 </p>
 
