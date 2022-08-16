@@ -1,21 +1,21 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Divyanshu</h1>
+<h1 align="center">Hi 👋, I'm Divyanshu</h1>
 <h3 align="center">I'm a passionate Full Stack Developer from India.</h3>
 
 ## 🙋‍♂️ About Me
 
--   🌱 I’m currently learning **ReactJS, NodeJS, Java.**
+- 🌱 I’m currently learning **ReactJS, NodeJS, Java.**
 
--   💬 Ask me anything about **JS, React, C++.**
+- 💬 Ask me anything about **JS, React, C++.**
 
--   👯 I’m looking for help with **Remix, Next, Web3, Spring**
+- 👯 I’m looking for help with **Remix, Next, Web3, Spring**
 
 <!-- -   👨‍💻 All of my projects are available at **[My Portfolio](https://subhamraoniar.com)** -->
 
--   📫 How to reach me **divyanshutyagi8@gmail.com**
+- 📫 How to reach me **divyanshutyagi8@gmail.com**
 
--   📄 Know about my experiences **[My Resume](https://drive.google.com/file/d/1ExGDxVNsGvCMC7ompnJZA8b-13XHmJHz/view?usp=sharing).**
+- 📄 Know about my experiences **[My Resume](https://drive.google.com/file/d/1YSGXaZrpZSJAdZWrNAZSk5K640b8AKTF/view?usp=sharing).**
 
 ## 🚀 Languages and Tools:
 
