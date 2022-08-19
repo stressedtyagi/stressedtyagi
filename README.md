@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **divyanshutyagi8@gmail.com**
 
-- 📄 Know about my experiences **[My Resume](https://drive.google.com/file/d/1YSGXaZrpZSJAdZWrNAZSk5K640b8AKTF/view?usp=sharing).**
+- 📄 Know about my experiences **[My Resume](https://drive.google.com/file/d/1-YPpqfEwwTuP4MRofgqElzpoSAEnEtwX/view?usp=sharingg).**
 
 ## 🚀 Languages and Tools:
 
