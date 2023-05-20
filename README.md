@@ -1,21 +1,21 @@
-<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
+<!-- <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a> -->
 
 <h1 align="center">Hi 👋, I'm Divyanshu</h1>
-<h3 align="center">I'm a passionate Full Stack Developer from India.</h3>
+<h3 align="center">I'm a passionate Full Stack Developer</h3>
 
 ## 🙋‍♂️ About Me
 
-- 🌱 I’m currently learning **ReactJS, NodeJS, Java.**
+- 🌱 I’m currently learning **NextJS, Python, Java.**
 
-- 💬 Ask me anything about **JS, React, C++.**
+- 💬 Ask me anything about **JS, ReactJS, NodeJS, C++.**
 
-- 👯 I’m looking for help with **Remix, Next, Web3, Spring**
+- 👯 I’m looking for help with **Remix, Web3, Spring**
 
 <!-- -   👨‍💻 All of my projects are available at **[My Portfolio](https://subhamraoniar.com)** -->
 
 - 📫 How to reach me **divyanshutyagi8@gmail.com**
 
-- 📄 Know about my experiences **[My Resume](https://drive.google.com/file/d/1-YPpqfEwwTuP4MRofgqElzpoSAEnEtwX/view?usp=sharingg).**
+- 📄 Know about my experiences **[My Resume](https://drive.google.com/file/d/1-YPpqfEwwTuP4MRofgqElzpoSAEnEtwX/view?usp=share_link).**
 
 ## 🚀 Languages and Tools:
 
@@ -65,13 +65,13 @@
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
-<br/>
+<!-- <br/>
 <br/>
 
 <a href="https://github.com/stressedtyagi/github-readme-activity-graph"><img alt="Divyanshu Tyagi Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=stressedtyagi&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
-<br/>
+<br/> -->
 
 </p>
 
