@@ -5,11 +5,11 @@
 
 ## 🙋‍♂️ About Me
 
-- 🌱 I’m currently learning **NextJS, Python, Java.**
+- 🌱 I’m currently learning **Angular, Python, Kubernetes.**
 
-- 💬 Ask me anything about **JS, ReactJS, NodeJS, C++.**
+- 💬 Ask me anything about **JS, ReactJS, Angular, NodeJS, C++.**
 
-- 👯 I’m looking for help with **Remix, Web3, Spring**
+- 👯 I’m looking for help with **Kubernetes, Web3, System Design**
 
 <!-- -   👨‍💻 All of my projects are available at **[My Portfolio](https://subhamraoniar.com)** -->
 
